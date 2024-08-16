@@ -1,16 +1,14 @@
-## Hi there 👋
+# 이영호 : youngho Lee : 205
 
-<!--
-**205sla/205sla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[유튜브](https://www.youtube.com/@205)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[개인홈페이지](이영호.com)
+
+
+[나무위키](https://namu.wiki/w/이영호(2003))
+
+
+[엔트리](http://naver.me/Gfv4UPbt)
+
+
