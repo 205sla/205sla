@@ -10,7 +10,7 @@
 [유튜브](https://www.youtube.com/@205)
 
 
-[개인홈페이지](205.kr)
+[개인홈페이지](http://205.kr/)
 
 
 [나무위키](https://namu.wiki/w/이영호(2003))
