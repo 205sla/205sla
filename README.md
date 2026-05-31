@@ -8,6 +8,7 @@
 ## 관련 링크
 
 [유튜브](https://www.youtube.com/@205)
+[![205와 엔트리](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@205)
 
 
 [개인홈페이지](http://205.kr/)
